@@ -1,0 +1,47 @@
+.concept-title {
+  font-size: 20px;
+  margin: 8px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+  font-size: 5em;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+.stage {
+  background-color: #ffd700;
+  border-radius: 10px;
+  color: #696969;
+  padding: 10px;
+}
+
+h2,
+h3,
+h4 {
+  font-weight: bold;
+}
+
+.lesson {
+  background-color: #e9967a;
+  border-radius: 20px;
+  padding: 10px;
+  color: white;
+}
+
+.concept {
+  background-color: #daa520;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
